@@ -1,0 +1,5 @@
+{
+  "name": "Coffee Smart Schedule",
+  "description": "A scientific tool to optimize caffeine intake based on circadian rhythms and biometrics.",
+  "requestFramePermissions": []
+}
